@@ -2,7 +2,9 @@
 using namespace std ;
 int main(){
   int n;
-cout<<"Enter value of n";
+  int p;
+  int i;
+cout<<"Enter value of N: ";
 cin>>n;
   while(n){
 
@@ -18,4 +20,5 @@ n--;
 p++; 
   }
 return 0;
+  cout<<endl;
 }
