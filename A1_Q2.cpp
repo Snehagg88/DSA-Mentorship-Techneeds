@@ -19,4 +19,7 @@
      else{ 
          cout<<"below par"<<endl; 
      } 
+  cout<<endl;
+
+  return 0;
  }
